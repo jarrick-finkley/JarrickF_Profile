@@ -1,0 +1,278 @@
+
+
+.profile {
+    background-image: url('../images/type.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+    padding: 200px 0px;
+}
+
+
+.profile_content p {
+    color: rgb(124, 158, 221);
+}
+
+.profile_content img {
+    height: 200px;
+    width: 180px;
+    border-radius: 50%;
+    margin-top: -50px;
+}
+
+.profile_content a{
+    text-decoration: none;
+    color: rgb(48, 104, 207);
+}
+
+.profile_content a:hover {
+    text-decoration: none;
+    color: rgb(96, 144, 177);
+}
+
+.profile_content ul {
+    list-style: none;
+    padding: 10px 10px;
+
+}
+
+.profile_content li {
+    display: inline;
+    margin: 0px 10px;
+}
+
+.profile_content {
+    border: solid;
+    border-width: 1px 1px;
+    border-color: rgb(124, 124, 124);
+    margin: 0px;
+}
+
+.nav_bar {
+    background-color: black;
+    height: 60px;
+
+}
+.nav_bar a{
+    text-decoration: none;
+    color: rgb(48, 104, 207);
+    font-size: 20px;
+}
+.nav_bar a:hover{
+    text-decoration: none;
+    color: rgb(124, 158, 221);
+    font-size: 20px;
+}
+.nav_bar ul {
+    list-style: none;
+    padding-top: 15px;
+    text-align: center;
+    padding-left: 0px;
+    
+}
+.nav_bar li {
+    display: inline;
+    font-size: 20px;
+    
+}
+
+
+/*ABOUT ME*/
+
+.about_me {
+    background-color: rgb(46, 45, 45);
+    padding-bottom: 40px;
+    padding-top: 10px;
+
+}
+
+.about_me h2 {
+    color: rgb(48, 104, 207);
+    margin-bottom: 0px;
+}
+
+.about_me h3 {
+    color: rgb(124, 158, 221);
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.about_me p {
+    color: rgb(230, 227, 227);
+    margin-bottom: 20px;
+
+}
+
+.about_me a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: rgb(165, 165, 165);
+    border-radius: 5px;
+}
+
+.about_me a:hover{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 5px;
+}
+
+
+/*Projects*/
+body {
+    background-image: url('../images/wood3.jpg');
+    background-size: 100.5%;
+}
+
+body h2 {
+    color: white;
+    margin-bottom: 0px;
+}
+
+body h3 {
+    color: white;
+    font-size: 14px;
+    margin-top: 0px;
+}
+
+.col-sm-6 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.project1 .row, .project2 .row, .project3 .row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.project1 {
+    background-color: rgb(46, 45, 45);
+    margin-bottom: 12px;
+    outline-style: solid;
+    outline-color: rgb(124, 158, 221);
+}
+
+.project2 {
+    background-color: rgb(46, 45, 45);
+    margin-bottom: 12px;
+    outline-style: solid;
+    outline-color: rgb(124, 158, 221);
+}
+
+.project3 {
+    background-color: rgb(45, 45, 46);
+    outline-style: solid;
+    outline-color: rgb(124, 158, 221);
+
+}
+
+.project1 img, .project2 img, .project3 img{
+    width: 570px;
+    height: 350px;
+}
+
+
+.project1 h2, .project2 h2, .project3 h2 {
+    color: rgb(48, 104, 207);
+    margin-bottom: 0px;
+    padding: 0px 20px;
+}
+
+.project1 h3, .project2 h3, .project3 h3 {
+    color: rgb(124, 158, 221);
+    margin-bottom: 0px;
+    padding: 0px 20px;
+}
+
+.project1 ul, .project2 ul, .project3 ul {
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+    padding: 0px 20px;
+}
+
+.project1 p, .project2 p, .project3 p {
+    color: rgb(177, 177, 177);
+    margin-bottom: 20px;
+    padding: 0px 20px;
+
+}
+
+.project1 a, .project2 a, .project3 a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: rgb(165, 165, 165);
+    border-radius: 5px;
+    margin: 0px 20px;
+}
+
+.project1 a:hover, .project2 a:hover, .project3 a:hover{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 5px;
+    margin: 0px 20px;
+}
+
+
+/*footer*/
+.footer {
+    background-image: url('../images/jackson.jpg');
+    background-size: 100% 100%; 
+    padding-bottom: 50px;
+    padding-top: 20px;
+    margin-top: 14px;
+}
+
+.footer ul{
+}
+
+.footer h2{
+    color: rgb(48, 104, 207);
+    padding-left: 30px;
+}
+
+.footer h3{
+    color: rgb(124, 158, 221);
+    padding-left: 33px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: rgb(48, 104, 207);
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: rgb(96, 144, 177);
+}
+
+
+.footer ul {
+    list-style: none;
+    color: rgb(230, 227, 227);
+}
+
+
+
+
+.base {
+    text-align: center;
+}
+
+.base ul { 
+    list-style: none;
+    padding: 10px 10px;
+}
+    
+.base li {
+    list-style-image:;
+    display: inline;
+    margin: 0px 10px;
+}
