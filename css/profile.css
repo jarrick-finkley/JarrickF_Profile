@@ -123,8 +123,7 @@
 
 /*Projects*/
 body {
-    background-image: url('../images/wood3.jpg');
-    background-size: 100.5%;
+    background: url('../images/wood3.jpg');
 }
 
 body h2 {
@@ -150,28 +149,21 @@ body h3 {
 
 .project1 {
     background-color: rgb(46, 45, 45);
-    margin-bottom: 12px;
-    outline-style: solid;
-    outline-color: rgb(124, 158, 221);
+    margin-bottom: 36px;
 }
 
 .project2 {
     background-color: rgb(46, 45, 45);
-    margin-bottom: 12px;
-    outline-style: solid;
-    outline-color: rgb(124, 158, 221);
+    margin-bottom: 36px;
 }
 
 .project3 {
     background-color: rgb(45, 45, 46);
-    outline-style: solid;
-    outline-color: rgb(124, 158, 221);
-
+    margin-bottom: 36px;
 }
 
 .project1 img, .project2 img, .project3 img{
     width: 570px;
-    height: 350px;
 }
 
 
